@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mirit\\Downloads\\BackendLessonSources-main\\BackendLessonSources-main\\Lesson 10\\Lesson10\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F8508A8A-5450-4827-8DEE-78EFF59E4B37}|Lesson10\\Lesson10.csproj|c:\\users\\mirit\\downloads\\backendlessonsources-main\\backendlessonsources-main\\lesson 10\\lesson10\\lesson10\\aptek.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8508A8A-5450-4827-8DEE-78EFF59E4B37}|Lesson10\\Lesson10.csproj|solutionrelative:lesson10\\aptek.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8508A8A-5450-4827-8DEE-78EFF59E4B37}|Lesson10\\Lesson10.csproj|c:\\users\\mirit\\downloads\\backendlessonsources-main\\backendlessonsources-main\\lesson 10\\lesson10\\lesson10\\tabletderman.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8508A8A-5450-4827-8DEE-78EFF59E4B37}|Lesson10\\Lesson10.csproj|solutionrelative:lesson10\\tabletderman.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Aptek.cs",
+              "DocumentMoniker": "C:\\Users\\mirit\\Downloads\\BackendLessonSources-main\\BackendLessonSources-main\\Lesson 10\\Lesson10\\Lesson10\\Aptek.cs",
+              "RelativeDocumentMoniker": "Lesson10\\Aptek.cs",
+              "ToolTip": "C:\\Users\\mirit\\Downloads\\BackendLessonSources-main\\BackendLessonSources-main\\Lesson 10\\Lesson10\\Lesson10\\Aptek.cs",
+              "RelativeToolTip": "Lesson10\\Aptek.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T07:19:36.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TabletDerman.cs",
+              "DocumentMoniker": "C:\\Users\\mirit\\Downloads\\BackendLessonSources-main\\BackendLessonSources-main\\Lesson 10\\Lesson10\\Lesson10\\TabletDerman.cs",
+              "RelativeDocumentMoniker": "Lesson10\\TabletDerman.cs",
+              "ToolTip": "C:\\Users\\mirit\\Downloads\\BackendLessonSources-main\\BackendLessonSources-main\\Lesson 10\\Lesson10\\Lesson10\\TabletDerman.cs",
+              "RelativeToolTip": "Lesson10\\TabletDerman.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T07:19:35.419Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

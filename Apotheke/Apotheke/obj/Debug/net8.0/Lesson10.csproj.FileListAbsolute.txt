@@ -1,0 +1,14 @@
+C:\Users\mirit\Downloads\BackendLessonSources-main\BackendLessonSources-main\Lesson 10\Lesson10\Lesson10\bin\Debug\net8.0\Lesson10.exe
+C:\Users\mirit\Downloads\BackendLessonSources-main\BackendLessonSources-main\Lesson 10\Lesson10\Lesson10\bin\Debug\net8.0\Lesson10.deps.json
+C:\Users\mirit\Downloads\BackendLessonSources-main\BackendLessonSources-main\Lesson 10\Lesson10\Lesson10\bin\Debug\net8.0\Lesson10.runtimeconfig.json
+C:\Users\mirit\Downloads\BackendLessonSources-main\BackendLessonSources-main\Lesson 10\Lesson10\Lesson10\bin\Debug\net8.0\Lesson10.dll
+C:\Users\mirit\Downloads\BackendLessonSources-main\BackendLessonSources-main\Lesson 10\Lesson10\Lesson10\bin\Debug\net8.0\Lesson10.pdb
+C:\Users\mirit\Downloads\BackendLessonSources-main\BackendLessonSources-main\Lesson 10\Lesson10\Lesson10\obj\Debug\net8.0\Lesson10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mirit\Downloads\BackendLessonSources-main\BackendLessonSources-main\Lesson 10\Lesson10\Lesson10\obj\Debug\net8.0\Lesson10.AssemblyInfoInputs.cache
+C:\Users\mirit\Downloads\BackendLessonSources-main\BackendLessonSources-main\Lesson 10\Lesson10\Lesson10\obj\Debug\net8.0\Lesson10.AssemblyInfo.cs
+C:\Users\mirit\Downloads\BackendLessonSources-main\BackendLessonSources-main\Lesson 10\Lesson10\Lesson10\obj\Debug\net8.0\Lesson10.csproj.CoreCompileInputs.cache
+C:\Users\mirit\Downloads\BackendLessonSources-main\BackendLessonSources-main\Lesson 10\Lesson10\Lesson10\obj\Debug\net8.0\Lesson10.dll
+C:\Users\mirit\Downloads\BackendLessonSources-main\BackendLessonSources-main\Lesson 10\Lesson10\Lesson10\obj\Debug\net8.0\refint\Lesson10.dll
+C:\Users\mirit\Downloads\BackendLessonSources-main\BackendLessonSources-main\Lesson 10\Lesson10\Lesson10\obj\Debug\net8.0\Lesson10.pdb
+C:\Users\mirit\Downloads\BackendLessonSources-main\BackendLessonSources-main\Lesson 10\Lesson10\Lesson10\obj\Debug\net8.0\Lesson10.genruntimeconfig.cache
+C:\Users\mirit\Downloads\BackendLessonSources-main\BackendLessonSources-main\Lesson 10\Lesson10\Lesson10\obj\Debug\net8.0\ref\Lesson10.dll
